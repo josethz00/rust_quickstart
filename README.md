@@ -1,4 +1,4 @@
-# Rust quickstart 🤯🤯🤯
+# Rust quickstart 🦀🦀🦀
 This is a public repository with contents of Rust programming language, here are some tests and projects that I am doing for practice and to learn this language.
 <br />
 <h1>Steps to run this app 👇👇👇</h1>
